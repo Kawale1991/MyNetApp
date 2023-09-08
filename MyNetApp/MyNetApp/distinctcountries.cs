@@ -15,7 +15,8 @@ namespace MyNetApp
         public static void Main(string[] args)
         {
             List<string> countries = new List<string> {"India","Singapore","US", "India", "Singapore", "US" };
-            IEnumerable<string> distinctcountries = countries.Distinct();
+            IEnumerable<string> distinctcountries = (from n in countries
+                                                    select n).Distinct();
 
             foreach (var item in distinctcountries)
             {
