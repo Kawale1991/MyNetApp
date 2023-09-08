@@ -1,0 +1,15 @@
+D:\Git_With_Visual_Studio\MyNetApp\MyNetApp\bin\Debug\net6.0\MyNetApp.exe
+D:\Git_With_Visual_Studio\MyNetApp\MyNetApp\bin\Debug\net6.0\MyNetApp.deps.json
+D:\Git_With_Visual_Studio\MyNetApp\MyNetApp\bin\Debug\net6.0\MyNetApp.runtimeconfig.json
+D:\Git_With_Visual_Studio\MyNetApp\MyNetApp\bin\Debug\net6.0\MyNetApp.dll
+D:\Git_With_Visual_Studio\MyNetApp\MyNetApp\bin\Debug\net6.0\MyNetApp.pdb
+D:\Git_With_Visual_Studio\MyNetApp\MyNetApp\obj\Debug\net6.0\MyNetApp.csproj.AssemblyReference.cache
+D:\Git_With_Visual_Studio\MyNetApp\MyNetApp\obj\Debug\net6.0\MyNetApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git_With_Visual_Studio\MyNetApp\MyNetApp\obj\Debug\net6.0\MyNetApp.AssemblyInfoInputs.cache
+D:\Git_With_Visual_Studio\MyNetApp\MyNetApp\obj\Debug\net6.0\MyNetApp.AssemblyInfo.cs
+D:\Git_With_Visual_Studio\MyNetApp\MyNetApp\obj\Debug\net6.0\MyNetApp.csproj.CoreCompileInputs.cache
+D:\Git_With_Visual_Studio\MyNetApp\MyNetApp\obj\Debug\net6.0\MyNetApp.dll
+D:\Git_With_Visual_Studio\MyNetApp\MyNetApp\obj\Debug\net6.0\refint\MyNetApp.dll
+D:\Git_With_Visual_Studio\MyNetApp\MyNetApp\obj\Debug\net6.0\MyNetApp.pdb
+D:\Git_With_Visual_Studio\MyNetApp\MyNetApp\obj\Debug\net6.0\MyNetApp.genruntimeconfig.cache
+D:\Git_With_Visual_Studio\MyNetApp\MyNetApp\obj\Debug\net6.0\ref\MyNetApp.dll
